@@ -4,16 +4,16 @@
 <p>
 <a target="_blank" href="https://www.instagram.com/thanhlong8459/">
   <img align="center" alt="Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a>&nbsp;
 <a target="_blank" href="mailto:codeinlife10@gmail.com">
   <img align="center" alt="Gmail" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+</a>&nbsp;
 <a target="_blank" href="https://www.facebook.com/profile.php?id=100009936277808">
   <img align="center" alt="Facebook" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a>&nbsp;
 <a target="_blank" href="https://www.messenger.com/t/100005874825075/">
   <img align="center" alt="Facebook" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/messenger.svg" />
-</a>  
+</a>&nbsp;  
 </p>
 <hr>
 
