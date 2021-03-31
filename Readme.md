@@ -1,7 +1,6 @@
 <img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***Contact Me For More Details***</em> 
 
-<br>
-<p>
+<p align="center>
 <a target="_blank" href="https://www.instagram.com/thanhlong8459/">
   <img align="center" alt="Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;
@@ -17,6 +16,7 @@
 </p>
 <hr>
 
+<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***About My Activity & Skill***</em> 
 
 
 <img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***Language and tools***</em> <br>
@@ -32,7 +32,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <hr>
 
 <p align="center">
