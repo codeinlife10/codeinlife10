@@ -1,6 +1,9 @@
-<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***Contact Me For More Details***</em> 
+<p align="center">
+<img src="https://media.giphy.com/media/UqkekNFhlzI0bT0I7i/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>Contact Me For More Details</b></i>&nbsp;<img src="https://media.giphy.com/media/UqkekNFhlzI0bT0I7i/giphy.gif" width="40px" alt="GitHub-Status"/>
+</p>
 
-<p align="center>
+
+<p align="center">
 <a target="_blank" href="https://www.instagram.com/thanhlong8459/">
   <img align="center" alt="Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>&nbsp;
@@ -27,7 +30,6 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
