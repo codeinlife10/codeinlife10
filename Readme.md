@@ -16,7 +16,9 @@
 </a>  
 </p>
 
-
+</br>
+</br>
+</br>
 
 
 
@@ -34,7 +36,11 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
-<img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/></p>
+
+
+<p align="center">
+<img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>
+</p>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinlife10&theme=tokyonight)
