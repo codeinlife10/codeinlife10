@@ -36,7 +36,7 @@
 <hr>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i><img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>
+<img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>
 </p>
 
 
