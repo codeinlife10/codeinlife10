@@ -1,6 +1,6 @@
-<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>***Contact Me For More Details***</em> 
+<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***Contact Me For More Details***</em> 
 
-
+<br>
 <p>
 <a target="_blank" href="https://www.instagram.com/thanhlong8459/">
   <img align="center" alt="Instagram" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
