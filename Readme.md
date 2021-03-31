@@ -17,6 +17,16 @@
   <img align="center" alt="Facebook" width="36px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/messenger.svg" />
 </a>&nbsp;  
 </p>
+
+<p align="center">
+  <em>
+    This is information about Nguyễn Thành Long, an undergraduate from <a href="https://www.hust.edu.vn/"> <b>Ha Noi University of science and technology</b></a>. <br>
+    A budding <b>Full-Stack Software Developer(MERN stack)</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="42px"> and a <b>Studious Programing</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="42px">
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
 <hr>
 
 <img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***About My Activity & Skill***</em> 
