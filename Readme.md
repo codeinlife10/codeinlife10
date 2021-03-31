@@ -40,3 +40,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeinlife10&show_icons=true&locale=en" alt="akash-chowrasia" width="410" /></p>
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinlife10&theme=tokyonight)
