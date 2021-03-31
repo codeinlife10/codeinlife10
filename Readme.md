@@ -1,2 +1,2 @@
-# This is an <h1> tag #
-*This text will be italic*
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=codeinlife10&show_icons=true)
