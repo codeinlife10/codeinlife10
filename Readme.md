@@ -1,7 +1,7 @@
-<em align="center">***Contact Me For More Details***</em> 
+<em>***Contact Me For More Details***</em> 
 
 
-<p align="center">
+<p>
 <a target="_blank" href="https://www.instagram.com/thanhlong8459/">
   <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
@@ -17,6 +17,10 @@
 </p>
 
 
+
+
+
+<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>***Language and tools***</em> <br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
