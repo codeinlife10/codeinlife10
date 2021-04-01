@@ -29,7 +29,7 @@
 
 <hr>
 
-<p><img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***About My Activity & Experience***</em><p>
+<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***About My Activity & Experience***</em>
 
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">
