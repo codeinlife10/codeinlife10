@@ -29,18 +29,18 @@
 
 <hr>
 <b><i></i></b>
-<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***About My Activity & Experience***</em>
+<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif">&nbsp;<em>***About My Activity & Experience***</em><br>
 
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Familiar</i></b> with working on the computer for hours<br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;System <b><i>analysis</i></b> and <b><i>design</i></b>(OOP, database as MySQL,MongoDB,Firebase) avoid <b><i>loss and redundancy of data with <b><i>3NF standard</i></b></i></b><br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Optimize</i></b> and <b><i>improve</i></b> performance
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Cut</i></b> web from PSD templates with <b><i>Photoshop</i></b><br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Build a <b><i>client-server</i></b> with <b><i>C/C++</i></b> or <b><i>NodeJs with Express (strongly recommend)</i></b><br>
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Research 
 
 
 
-<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***Language and tools***</em> 
+<img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif">&nbsp;<em>***Language and tools***</em><br>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
@@ -59,7 +59,5 @@
 <img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>&nbsp;<i><b>GitHub Stats</b></i>&nbsp;<img src="https://media.giphy.com/media/ywaZAiOqSiA4MjsB02/giphy.gif" width="40px" alt="GitHub-Status"/>
 </p>
 
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeinlife10&theme=tokyonight)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=codeinlife10&show_icons=true&theme=tokyonight)
-
