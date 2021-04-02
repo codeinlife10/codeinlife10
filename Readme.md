@@ -28,16 +28,15 @@
 </p>
 
 <hr>
-
+<b><i></i></b>
 <img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif"><em>&nbsp;***About My Activity & Experience***</em>
 
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b>Familiar</b> with working on the computer for hours<br>
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;System <b>analysis</b> and <b>design</b><br> 
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b>Optimize</b> and <b>improve</b> performance
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Cut web from PSD templates
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Familiar</i></b> with working on the computer for hours<br>
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;System <b><i>analysis</i></b> and <b><i>design</i></b>(OOP, database as MySQL,MongoDB,Firebase) avoid <b><i>loss and redundancy of data with <b><i>3NF standard</i></b></i></b><br>
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Optimize</i></b> and <b><i>improve</i></b> performance
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Cut</i></b> web from PSD templates with <b><i>Photoshop</i></b><br>
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Build a <b><i>client-server</i></b> with <b><i>C/C++</i></b> or <b><i>NodeJs with Express (strongly recommend)</i></b><br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;
-
 
 
 
