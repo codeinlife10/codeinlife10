@@ -26,9 +26,8 @@
   <br>
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
 </p>
-
 <hr>
-<b><i></i></b>
+
 <img height="40" src="https://media.giphy.com/media/UU1oMfQVxQB7dH4NiP/giphy.gif">&nbsp;<em>***About My Activity & Experience***</em><br>
 
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Familiar</i></b> with working on the computer for hours<br>
