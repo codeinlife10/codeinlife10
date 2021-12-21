@@ -33,8 +33,7 @@
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Familiar</i></b> with working on the computer for hours<br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;System <b><i>analysis</i></b> and <b><i>design</i></b>(OOP, database as MySQL,MongoDB,Firebase)<br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Optimize</i></b> and <b><i>improve</i></b> performance<br>
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Cut</i></b> web from PSD templates with <b><i>Photoshop</i></b><br>
-<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Build a <b><i>client-server</i></b> with <b><i>NodeJs with Express (strongly recommend)</i></b><br>
+<img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Build a <b><i>client-server</i></b> with <b><i>NodeJs and Express </i></b><br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Research on <b><i></i>MVC model, code structure/clean code, naming convention as BEM </b><br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;Use <b><i>ReactJs/Redux</i></b> to build front-end web<br>
 <img height="30" src="https://media.giphy.com/media/3ohs4oWkzyVeVgTwKQ/giphy.gif">&nbsp;<b><i>Comunication & Teamwork skills</i></b> through Git, Telegram,<b><i>planning</i></b> to stray on track<br>
